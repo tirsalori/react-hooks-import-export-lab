@@ -1,6 +1,6 @@
 import React from "react";
-import {username} from "/Users/tirsa/Development/code/phase-2/react-hooks-import-export-lab/src/data/user.js"
-import {city} from "/Users/tirsa/Development/code/phase-2/react-hooks-import-export-lab/src/data/user.js"
+import {username} from "../data/user"
+import {city} from "../data/user"
 
 function Home() {
   return (
